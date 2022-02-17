@@ -1,0 +1,11 @@
+https://justcall.io/assets/js/plugins.js
+https://justcall.io/assets/js/validator.js
+https://justcall.io/assets/js/contact.js
+https://justcall.io/assets/js/custom.js
+https://cdn.justcall.io/app/assets/js/md5.js
+https://justcall.io/app/./assets/js/countrySelect.min.js
+https://cdn.justcall.io/app/sms_assets/countrySelect.min.js
+https://cdn.justcall.io/app/sms_assets/select2.min.js
+https://cdn.justcall.io/app/sms_assets/tocify_latest.js
+https://app/assets/js/main.js
+https://cdn.justcall.io/app/sms_assets/select2.min.js
